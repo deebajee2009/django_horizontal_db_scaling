@@ -1,1 +1,1 @@
-# django_horizontal_scaling
+# Django Horizontal Database Scaling: Sharding & Partitioning
